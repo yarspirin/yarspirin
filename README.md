@@ -1,5 +1,7 @@
 # Hi, I'm Yaroslav 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yarspirin&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" alt="yarspirin" />
+
 ![Software Engineer at Google UK](https://img.shields.io/badge/Google-Software%20Engineer-blue)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/-Objective--C-43853D)
