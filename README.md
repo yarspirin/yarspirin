@@ -12,7 +12,7 @@ I'm a Software Engineer at Google UK working on next-generation wearable product
 
 ## 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [async-await vs Combine in Swift](https://yarspirin.hashnode.dev/async-await-vs-combine-in-swift)
+- [Async-await vs Combine in Swift](https://yarspirin.hashnode.dev/async-await-vs-combine-in-swift)
 - [Bridging SwiftUI and UIKit: Blending the New with the Familiar](https://yarspirin.hashnode.dev/bridging-swiftui-and-uikit-blending-the-new-with-the-familiar)
 <!-- BLOG-POST-LIST:END -->
 
